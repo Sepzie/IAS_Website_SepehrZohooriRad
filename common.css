@@ -1,0 +1,36 @@
+/* common.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background-color: #f4f4f4; /* Light gray background */
+}
+
+button, .btn {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+button:hover, .btn:hover {
+    background-color: #0056b3;
+}
+
+.container {
+    margin-top: 30px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: white; /* Contrasting with the background */
+    border-radius: 5px;
+}
+
+h2 {
+    color: #444; /* Dark gray text for sub-headers */
+}
+    

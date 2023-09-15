@@ -1,15 +1,10 @@
-body {
-    font-family: Arial, sans-serif;
-    padding: 20px;
-}
-
+/* writer.css */
 textarea {
     width: 100%;
     margin-bottom: 10px;
-}
-
-button {
-    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
 #backButton {

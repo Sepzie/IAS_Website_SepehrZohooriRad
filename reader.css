@@ -2,6 +2,10 @@ body {
     font-family: Arial, sans-serif;
     padding: 20px;
 }
+/* reader.css */
+#backButton {
+    margin-bottom: 20px;
+}
 
 #backButton {
     margin-bottom: 20px;
